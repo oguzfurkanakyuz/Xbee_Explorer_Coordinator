@@ -1,0 +1,5 @@
+Added Component: Designator=*(deneme)
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Member To Class: ClassName=Xbee_Coordinator Member=Component * deneme
+Added Room: Name=Xbee_Coordinator

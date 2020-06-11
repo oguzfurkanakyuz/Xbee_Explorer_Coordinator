@@ -1,0 +1,10 @@
+Output: Telesis Netlist
+Type  : TelesisNetlist
+From  : Project [Xbee_Explorer_Coordinator.PrjPcb]
+   Generated File[Xbee_Coordinator.NET]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 17:06:45 On 21.04.2020

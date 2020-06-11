@@ -1,0 +1,116 @@
+Added Component: Designator=C1(5x11 Radial Capacitor)
+Added Component: Designator=C2(C_1206)
+Added Component: Designator=C3(C_1206)
+Added Component: Designator=C4(C_1206)
+Added Component: Designator=C5(C_1206)
+Added Component: Designator=C6(C_1206)
+Added Component: Designator=C7(C_1206)
+Added Component: Designator=C8(C_1206)
+Added Component: Designator=D1(LED_0805)
+Added Component: Designator=D2(LED_0805)
+Added Component: Designator=J1(Header 1x10 2mm)
+Added Component: Designator=J2(Header 1x10 2mm)
+Added Component: Designator=J3(PinHeader_1x10Pin_2.54mm)
+Added Component: Designator=J4(PinHeader_1x10Pin_2.54mm)
+Added Component: Designator=J5(Mini_USB)
+Added Component: Designator=U1(SSOP-28Pin)
+Added Component: Designator=U2(NCP1117 3.3V)
+Added Pin To Net: NetName=VBUS Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=VBUS Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=VBUS Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=VBUS Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=3.3V Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=3.3V Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=3.3V Pin=C7-2
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=VDD Pin=J1-1
+Added Pin To Net: NetName=TX Pin=J1-2
+Added Pin To Net: NetName=RX Pin=J1-3
+Added Pin To Net: NetName=DIO12 Pin=J1-4
+Added Pin To Net: NetName=RST Pin=J1-5
+Added Pin To Net: NetName=RSSI Pin=J1-6
+Added Pin To Net: NetName=DIO11 Pin=J1-7
+Added Pin To Net: NetName=RES Pin=J1-8
+Added Pin To Net: NetName=DTR Pin=J1-9
+Added Pin To Net: NetName=GND Pin=J1-10
+Added Pin To Net: NetName=DIO0 Pin=J2-1
+Added Pin To Net: NetName=DIO1 Pin=J2-2
+Added Pin To Net: NetName=DIO2 Pin=J2-3
+Added Pin To Net: NetName=DIO3 Pin=J2-4
+Added Pin To Net: NetName=RTS Pin=J2-5
+Added Pin To Net: NetName=DIO5 Pin=J2-6
+Added Pin To Net: NetName=VREF Pin=J2-7
+Added Pin To Net: NetName=DIO9 Pin=J2-8
+Added Pin To Net: NetName=CTS Pin=J2-9
+Added Pin To Net: NetName=DIO4 Pin=J2-10
+Added Pin To Net: NetName=VDD Pin=J3-1
+Added Pin To Net: NetName=TX Pin=J3-2
+Added Pin To Net: NetName=RX Pin=J3-3
+Added Pin To Net: NetName=DIO12 Pin=J3-4
+Added Pin To Net: NetName=RST Pin=J3-5
+Added Pin To Net: NetName=RSSI Pin=J3-6
+Added Pin To Net: NetName=DIO11 Pin=J3-7
+Added Pin To Net: NetName=RES Pin=J3-8
+Added Pin To Net: NetName=DTR Pin=J3-9
+Added Pin To Net: NetName=GND Pin=J3-10
+Added Pin To Net: NetName=DIO0 Pin=J4-1
+Added Pin To Net: NetName=DIO1 Pin=J4-2
+Added Pin To Net: NetName=DIO2 Pin=J4-3
+Added Pin To Net: NetName=DIO3 Pin=J4-4
+Added Pin To Net: NetName=RTS Pin=J4-5
+Added Pin To Net: NetName=DIO5 Pin=J4-6
+Added Pin To Net: NetName=VREF Pin=J4-7
+Added Pin To Net: NetName=DIO9 Pin=J4-8
+Added Pin To Net: NetName=CTS Pin=J4-9
+Added Pin To Net: NetName=DIO4 Pin=J4-10
+Added Pin To Net: NetName=VBUS Pin=J5-1
+Added Pin To Net: NetName=USBDM Pin=J5-2
+Added Pin To Net: NetName=USBDP Pin=J5-3
+Added Pin To Net: NetName=GND Pin=J5-5
+Added Pin To Net: NetName=RX Pin=U1-1
+Added Pin To Net: NetName=DTR Pin=U1-2
+Added Pin To Net: NetName=RTS Pin=U1-3
+Added Pin To Net: NetName=NetC8_2 Pin=U1-4
+Added Pin To Net: NetName=TX Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U1-7
+Added Pin To Net: NetName=CTS Pin=U1-11
+Added Pin To Net: NetName=USBDP Pin=U1-15
+Added Pin To Net: NetName=USBDM Pin=U1-16
+Added Pin To Net: NetName=NetC8_2 Pin=U1-17
+Added Pin To Net: NetName=GND Pin=U1-18
+Added Pin To Net: NetName=VBUS Pin=U1-20
+Added Pin To Net: NetName=GND Pin=U1-21
+Added Pin To Net: NetName=GND Pin=U1-25
+Added Pin To Net: NetName=GND Pin=U1-26
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=3.3V Pin=U2-2
+Added Pin To Net: NetName=VBUS Pin=U2-3
+Added Member To Class: ClassName=Xbee_Coordinator Member=Component C1 10uF
+Added Member To Class: ClassName=Xbee_Coordinator Member=Component C2 10uF
+Added Member To Class: ClassName=Xbee_Coordinator Member=Component C3 1uF
+Added Member To Class: ClassName=Xbee_Coordinator Member=Component C4 0.1uF
+Added Member To Class: ClassName=Xbee_Coordinator Member=Component C5 0.1uF
+Added Member To Class: ClassName=Xbee_Coordinator Member=Component C6 1uF
+Added Member To Class: ClassName=Xbee_Coordinator Member=Component C7 10uF
+Added Member To Class: ClassName=Xbee_Coordinator Member=Component C8 0.1uF
+Added Member To Class: ClassName=Xbee_Coordinator Member=Component D1 LED_0805
+Added Member To Class: ClassName=Xbee_Coordinator Member=Component D2 LED_0805
+Added Member To Class: ClassName=Xbee_Coordinator Member=Component J1 Header_1x10_2mm
+Added Member To Class: ClassName=Xbee_Coordinator Member=Component J2 Header_1x10_2mm
+Added Member To Class: ClassName=Xbee_Coordinator Member=Component J3 Pin_Header_1x10Pos_2.54mm
+Added Member To Class: ClassName=Xbee_Coordinator Member=Component J4 Pin_Header_1x10Pos_2.54mm
+Added Member To Class: ClassName=Xbee_Coordinator Member=Component J5 Mini_USB
+Added Member To Class: ClassName=Xbee_Coordinator Member=Component U1 FT232RL
+Added Member To Class: ClassName=Xbee_Coordinator Member=Component U2 NCP1117 3.3V
+Added Room: Name=Xbee_Coordinator

@@ -1,0 +1,4 @@
+Added Component: Designator=R1(R_1206)
+Added Component: Designator=R2(R_1206)
+Added Member To Class: ClassName=Xbee_Coordinator Member=Component R1 470
+Added Member To Class: ClassName=Xbee_Coordinator Member=Component R2 1K
